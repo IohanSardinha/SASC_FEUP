@@ -1,436 +1,4 @@
 freguesia,genero,ocupacao,tempo,destino,valor
-Ramalde,H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
-Ramalde,M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
-Ramalde,HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
-Ramalde,H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,2
-Ramalde,HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,2
-Ramalde,H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,3
-Ramalde,M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",3
-Ramalde,M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
-Ramalde,HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,3
-Ramalde,M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",4
-Ramalde,H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",5
-Ramalde,H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",5
-Ramalde,H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",5
-Ramalde,HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",6
-Ramalde,HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",8
-Ramalde,HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",8
-Ramalde,H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",10
-Ramalde,H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",10
-Ramalde,H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,13
-Ramalde,HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",14
-Ramalde,H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",15
-Ramalde,M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,16
-Ramalde,M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",23
-Ramalde,M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",26
-Ramalde,HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,29
-Ramalde,H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,31
-Ramalde,HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",33
-Ramalde,HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",41
-Ramalde,H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,44
-Ramalde,M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,46
-Ramalde,M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,62
-Ramalde,HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,77
-Ramalde,HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,106
-Ramalde,H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",123
-Ramalde,M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",159
-Ramalde,H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,175
-Ramalde,H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,224
-Ramalde,M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,226
-Ramalde,H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",232
-Ramalde,HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",282
-Ramalde,M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,285
-Ramalde,H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",355
-Ramalde,H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,399
-Ramalde,M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",431
-Ramalde,HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,450
-Ramalde,HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,460
-Ramalde,M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,511
-Ramalde,M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",590
-Ramalde,HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",663
-Ramalde,H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",693
-Ramalde,M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",716
-Ramalde,M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",845
-Ramalde,H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,855
-Ramalde,H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",886
-Ramalde,HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,910
-Ramalde,HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",945
-Ramalde,M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1005
-Ramalde,M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1040
-Ramalde,H,Empregada,Total,Na freguesia onde reside atualmente,1062
-Ramalde,H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1063
-Ramalde,H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1155
-Ramalde,M,Estudante,Total,Na freguesia onde reside atualmente,1247
-Ramalde,H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1257
-Ramalde,H,Estudante,Total,Na freguesia onde reside atualmente,1302
-Ramalde,M,Empregada,Total,Na freguesia onde reside atualmente,1371
-Ramalde,HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",1409
-Ramalde,M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1448
-Ramalde,H,Estudante,Total,"No mesmo município, noutra freguesia",1712
-Ramalde,M,Estudante,Total,"No mesmo município, noutra freguesia",1726
-Ramalde,HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",1731
-Ramalde,M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1808
-Ramalde,H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1848
-Ramalde,HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1895
-Ramalde,H,Total,Até 15 minutos,Na freguesia onde reside atualmente,1918
-Ramalde,M,Total,Até 15 minutos,Na freguesia onde reside atualmente,2045
-Ramalde,HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,2068
-Ramalde,H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2143
-Ramalde,M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",2164
-Ramalde,H,Total,Total,Na freguesia onde reside atualmente,2364
-Ramalde,HM,Empregada,Total,Na freguesia onde reside atualmente,2433
-Ramalde,HM,Estudante,Total,Na freguesia onde reside atualmente,2549
-Ramalde,HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",2603
-Ramalde,M,Total,Total,Na freguesia onde reside atualmente,2618
-Ramalde,M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2653
-Ramalde,H,Empregada,Total,"No mesmo município, noutra freguesia",2659
-Ramalde,HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",3065
-Ramalde,HM,Estudante,Total,"No mesmo município, noutra freguesia",3438
-Ramalde,M,Empregada,Total,"No mesmo município, noutra freguesia",3711
-Ramalde,HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,3963
-Ramalde,HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",4012
-Ramalde,H,Total,Total,"No mesmo município, noutra freguesia",4371
-Ramalde,HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",4796
-Ramalde,HM,Total,Total,Na freguesia onde reside atualmente,4982
-Ramalde,M,Total,Total,"No mesmo município, noutra freguesia",5437
-Ramalde,HM,Empregada,Total,"No mesmo município, noutra freguesia",6370
-Ramalde,HM,Total,Total,"No mesmo município, noutra freguesia",9808
-Ramalde,H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Ramalde,M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,1
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,5
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",5
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,6
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,6
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,6
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",7
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,7
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,8
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",12
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",14
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,14
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",19
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,21
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",25
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,29
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,32
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",32
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,38
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",39
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",51
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,53
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,67
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",81
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",100
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,128
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",155
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,163
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,171
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",181
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,230
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",255
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",288
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,291
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,334
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,358
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",369
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,401
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",443
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",531
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",556
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",577
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",594
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",624
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,676
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,692
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,792
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,814
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Total,Na freguesia onde reside atualmente,830
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",886
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",898
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,903
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Total,Na freguesia onde reside atualmente,969
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Total,Na freguesia onde reside atualmente,986
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1008
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",1125
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",1133
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Total,Na freguesia onde reside atualmente,1166
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1185
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Total,"No mesmo município, noutra freguesia",1196
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Total,"No mesmo município, noutra freguesia",1255
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1454
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1480
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Até 15 minutos,Na freguesia onde reside atualmente,1490
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1579
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1585
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1606
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Até 15 minutos,Na freguesia onde reside atualmente,1695
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1716
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Total,Na freguesia onde reside atualmente,1816
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1906
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Total,"No mesmo município, noutra freguesia",1953
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Total,Na freguesia onde reside atualmente,1955
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Total,Na freguesia onde reside atualmente,1996
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",2071
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Total,Na freguesia onde reside atualmente,2135
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Total,"No mesmo município, noutra freguesia",2451
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Total,"No mesmo município, noutra freguesia",2508
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",3039
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,3185
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",3196
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Total,"No mesmo município, noutra freguesia",3208
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Total,"No mesmo município, noutra freguesia",3704
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Total,Na freguesia onde reside atualmente,3951
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Total,"No mesmo município, noutra freguesia",4461
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Total,"No mesmo município, noutra freguesia",6912
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
-Bonfim,M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
-Bonfim,M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,1
-Bonfim,M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
-Bonfim,HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
-Bonfim,HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,1
-Bonfim,H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",2
-Bonfim,H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
-Bonfim,H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
-Bonfim,M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,3
-Bonfim,H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,4
-Bonfim,HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",4
-Bonfim,HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",4
-Bonfim,M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",6
-Bonfim,HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,7
-Bonfim,HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",8
-Bonfim,H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",9
-Bonfim,H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",11
-Bonfim,M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",15
-Bonfim,H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,16
-Bonfim,H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,20
-Bonfim,M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",21
-Bonfim,M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,22
-Bonfim,HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",24
-Bonfim,M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,25
-Bonfim,HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",32
-Bonfim,HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,38
-Bonfim,HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,45
-Bonfim,H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",63
-Bonfim,M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",85
-Bonfim,H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,104
-Bonfim,M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,126
-Bonfim,H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,142
-Bonfim,HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",148
-Bonfim,H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",182
-Bonfim,M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",214
-Bonfim,M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,219
-Bonfim,HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,230
-Bonfim,H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",244
-Bonfim,H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",245
-Bonfim,H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,246
-Bonfim,M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",279
-Bonfim,M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,345
-Bonfim,HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,361
-Bonfim,M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",364
-Bonfim,M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",375
-Bonfim,H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",393
-Bonfim,HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",458
-Bonfim,HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",461
-Bonfim,H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,554
-Bonfim,M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",564
-Bonfim,M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,572
-Bonfim,HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,591
-Bonfim,H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,598
-Bonfim,H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",603
-Bonfim,HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",609
-Bonfim,H,Estudante,Total,Na freguesia onde reside atualmente,662
-Bonfim,M,Estudante,Total,"No mesmo município, noutra freguesia",680
-Bonfim,M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,682
-Bonfim,M,Estudante,Total,Na freguesia onde reside atualmente,701
-Bonfim,H,Estudante,Total,"No mesmo município, noutra freguesia",702
-Bonfim,H,Empregada,Total,Na freguesia onde reside atualmente,756
-Bonfim,HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",768
-Bonfim,M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",778
-Bonfim,H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",796
-Bonfim,H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",847
-Bonfim,M,Empregada,Total,Na freguesia onde reside atualmente,924
-Bonfim,M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1112
-Bonfim,HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1126
-Bonfim,H,Total,Até 15 minutos,Na freguesia onde reside atualmente,1152
-Bonfim,HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1167
-Bonfim,H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1189
-Bonfim,M,Total,Até 15 minutos,Na freguesia onde reside atualmente,1254
-Bonfim,HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1280
-Bonfim,HM,Estudante,Total,Na freguesia onde reside atualmente,1363
-Bonfim,HM,Estudante,Total,"No mesmo município, noutra freguesia",1382
-Bonfim,H,Total,Total,Na freguesia onde reside atualmente,1418
-Bonfim,M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1487
-Bonfim,H,Empregada,Total,"No mesmo município, noutra freguesia",1593
-Bonfim,M,Total,Total,Na freguesia onde reside atualmente,1625
-Bonfim,HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1625
-Bonfim,HM,Empregada,Total,Na freguesia onde reside atualmente,1680
-Bonfim,HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1908
-Bonfim,M,Empregada,Total,"No mesmo município, noutra freguesia",1971
-Bonfim,H,Total,Total,"No mesmo município, noutra freguesia",2295
-Bonfim,HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,2406
-Bonfim,M,Total,Total,"No mesmo município, noutra freguesia",2651
-Bonfim,HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2676
-Bonfim,HM,Total,Total,Na freguesia onde reside atualmente,3043
-Bonfim,HM,Empregada,Total,"No mesmo município, noutra freguesia",3564
-Bonfim,HM,Total,Total,"No mesmo município, noutra freguesia",4946
-Bonfim,HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-Bonfim,HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-Bonfim,H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,0
-Bonfim,H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
-Bonfim,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,2
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,2
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,2
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",3
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,3
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",4
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,4
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",7
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,7
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",7
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",8
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",9
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",11
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",12
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",16
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,19
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",21
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",24
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,26
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",33
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",40
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,42
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,49
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,52
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,71
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",72
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",91
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,94
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,120
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",163
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,225
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",253
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,264
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",325
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,350
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",358
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",359
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",360
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",449
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,489
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,575
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,586
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",608
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",611
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",635
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",719
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",774
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,789
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,827
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,850
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",864
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",887
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,936
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Total,Na freguesia onde reside atualmente,1022
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Total,"No mesmo município, noutra freguesia",1044
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1089
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Total,"No mesmo município, noutra freguesia",1090
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Total,Na freguesia onde reside atualmente,1110
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1224
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",1243
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1246
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1344
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,1425
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1478
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1576
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1616
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1697
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Total,Na freguesia onde reside atualmente,1737
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1751
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2113
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Total,Na freguesia onde reside atualmente,2132
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Até 15 minutos,Na freguesia onde reside atualmente,2133
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Total,"No mesmo município, noutra freguesia",2134
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Total,Na freguesia onde reside atualmente,2216
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Total,"No mesmo município, noutra freguesia",2248
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Até 15 minutos,Na freguesia onde reside atualmente,2403
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",2470
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",2567
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Total,"No mesmo município, noutra freguesia",2723
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Total,Na freguesia onde reside atualmente,2759
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,2920
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Total,"No mesmo município, noutra freguesia",3292
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Total,Na freguesia onde reside atualmente,3326
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",3810
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Total,"No mesmo município, noutra freguesia",3813
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Total,Na freguesia onde reside atualmente,3953
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,4536
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Total,"No mesmo município, noutra freguesia",4971
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Total,Na freguesia onde reside atualmente,6085
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Total,"No mesmo município, noutra freguesia",7105
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
@@ -539,6 +107,222 @@ Bonfim,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,2
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,2
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,2
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",3
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,3
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",4
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,4
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",7
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,7
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",7
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",8
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",9
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",11
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",12
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",16
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,19
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",21
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",24
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,26
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",33
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",40
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,42
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,49
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,52
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,71
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",72
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",91
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,94
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,120
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",163
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,225
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",253
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,264
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",325
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,350
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",358
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",359
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",360
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",449
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,489
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,575
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,586
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",608
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",611
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",635
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",719
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",774
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,789
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,827
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,850
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",864
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",887
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,936
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Total,Na freguesia onde reside atualmente,1022
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Total,"No mesmo município, noutra freguesia",1044
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1089
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Total,"No mesmo município, noutra freguesia",1090
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Total,Na freguesia onde reside atualmente,1110
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1224
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",1243
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1246
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1344
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,1425
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1478
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1576
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1616
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1697
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Total,Na freguesia onde reside atualmente,1737
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1751
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2113
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Total,Na freguesia onde reside atualmente,2132
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Até 15 minutos,Na freguesia onde reside atualmente,2133
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Total,"No mesmo município, noutra freguesia",2134
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Total,Na freguesia onde reside atualmente,2216
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Total,"No mesmo município, noutra freguesia",2248
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Até 15 minutos,Na freguesia onde reside atualmente,2403
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",2470
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",2567
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Total,"No mesmo município, noutra freguesia",2723
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Total,Na freguesia onde reside atualmente,2759
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,2920
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Total,"No mesmo município, noutra freguesia",3292
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Total,Na freguesia onde reside atualmente,3326
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",3810
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Total,"No mesmo município, noutra freguesia",3813
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Total,Na freguesia onde reside atualmente,3953
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,4536
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Total,"No mesmo município, noutra freguesia",4971
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Total,Na freguesia onde reside atualmente,6085
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Total,"No mesmo município, noutra freguesia",7105
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
+Ramalde,M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
+Ramalde,HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
+Ramalde,H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,2
+Ramalde,HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,2
+Ramalde,H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,3
+Ramalde,M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",3
+Ramalde,M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
+Ramalde,HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,3
+Ramalde,M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",4
+Ramalde,H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",5
+Ramalde,H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",5
+Ramalde,H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",5
+Ramalde,HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",6
+Ramalde,HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",8
+Ramalde,HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",8
+Ramalde,H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",10
+Ramalde,H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",10
+Ramalde,H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,13
+Ramalde,HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",14
+Ramalde,H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",15
+Ramalde,M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,16
+Ramalde,M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",23
+Ramalde,M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",26
+Ramalde,HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,29
+Ramalde,H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,31
+Ramalde,HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",33
+Ramalde,HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",41
+Ramalde,H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,44
+Ramalde,M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,46
+Ramalde,M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,62
+Ramalde,HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,77
+Ramalde,HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,106
+Ramalde,H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",123
+Ramalde,M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",159
+Ramalde,H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,175
+Ramalde,H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,224
+Ramalde,M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,226
+Ramalde,H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",232
+Ramalde,HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",282
+Ramalde,M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,285
+Ramalde,H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",355
+Ramalde,H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,399
+Ramalde,M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",431
+Ramalde,HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,450
+Ramalde,HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,460
+Ramalde,M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,511
+Ramalde,M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",590
+Ramalde,HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",663
+Ramalde,H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",693
+Ramalde,M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",716
+Ramalde,M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",845
+Ramalde,H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,855
+Ramalde,H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",886
+Ramalde,HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,910
+Ramalde,HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",945
+Ramalde,M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1005
+Ramalde,M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1040
+Ramalde,H,Empregada,Total,Na freguesia onde reside atualmente,1062
+Ramalde,H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1063
+Ramalde,H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1155
+Ramalde,M,Estudante,Total,Na freguesia onde reside atualmente,1247
+Ramalde,H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1257
+Ramalde,H,Estudante,Total,Na freguesia onde reside atualmente,1302
+Ramalde,M,Empregada,Total,Na freguesia onde reside atualmente,1371
+Ramalde,HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",1409
+Ramalde,M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1448
+Ramalde,H,Estudante,Total,"No mesmo município, noutra freguesia",1712
+Ramalde,M,Estudante,Total,"No mesmo município, noutra freguesia",1726
+Ramalde,HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",1731
+Ramalde,M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1808
+Ramalde,H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1848
+Ramalde,HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1895
+Ramalde,H,Total,Até 15 minutos,Na freguesia onde reside atualmente,1918
+Ramalde,M,Total,Até 15 minutos,Na freguesia onde reside atualmente,2045
+Ramalde,HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,2068
+Ramalde,H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2143
+Ramalde,M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",2164
+Ramalde,H,Total,Total,Na freguesia onde reside atualmente,2364
+Ramalde,HM,Empregada,Total,Na freguesia onde reside atualmente,2433
+Ramalde,HM,Estudante,Total,Na freguesia onde reside atualmente,2549
+Ramalde,HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",2603
+Ramalde,M,Total,Total,Na freguesia onde reside atualmente,2618
+Ramalde,M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2653
+Ramalde,H,Empregada,Total,"No mesmo município, noutra freguesia",2659
+Ramalde,HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",3065
+Ramalde,HM,Estudante,Total,"No mesmo município, noutra freguesia",3438
+Ramalde,M,Empregada,Total,"No mesmo município, noutra freguesia",3711
+Ramalde,HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,3963
+Ramalde,HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",4012
+Ramalde,H,Total,Total,"No mesmo município, noutra freguesia",4371
+Ramalde,HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",4796
+Ramalde,HM,Total,Total,Na freguesia onde reside atualmente,4982
+Ramalde,M,Total,Total,"No mesmo município, noutra freguesia",5437
+Ramalde,HM,Empregada,Total,"No mesmo município, noutra freguesia",6370
+Ramalde,HM,Total,Total,"No mesmo município, noutra freguesia",9808
+Ramalde,H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Ramalde,M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
 Paranhos,H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,1
 Paranhos,H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
 Paranhos,H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,1
@@ -755,6 +539,222 @@ Paranhos,M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
 Paranhos,M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
 Paranhos,HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
 Paranhos,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
+Bonfim,M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
+Bonfim,M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,1
+Bonfim,M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
+Bonfim,HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
+Bonfim,HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,1
+Bonfim,H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",2
+Bonfim,H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
+Bonfim,H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",3
+Bonfim,M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,3
+Bonfim,H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,4
+Bonfim,HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",4
+Bonfim,HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",4
+Bonfim,M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",6
+Bonfim,HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,7
+Bonfim,HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",8
+Bonfim,H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",9
+Bonfim,H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",11
+Bonfim,M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",15
+Bonfim,H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,16
+Bonfim,H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,20
+Bonfim,M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",21
+Bonfim,M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,22
+Bonfim,HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",24
+Bonfim,M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,25
+Bonfim,HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",32
+Bonfim,HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,38
+Bonfim,HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,45
+Bonfim,H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",63
+Bonfim,M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",85
+Bonfim,H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,104
+Bonfim,M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,126
+Bonfim,H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,142
+Bonfim,HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",148
+Bonfim,H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",182
+Bonfim,M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",214
+Bonfim,M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,219
+Bonfim,HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,230
+Bonfim,H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",244
+Bonfim,H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",245
+Bonfim,H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,246
+Bonfim,M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",279
+Bonfim,M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,345
+Bonfim,HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,361
+Bonfim,M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",364
+Bonfim,M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",375
+Bonfim,H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",393
+Bonfim,HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",458
+Bonfim,HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",461
+Bonfim,H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,554
+Bonfim,M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",564
+Bonfim,M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,572
+Bonfim,HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,591
+Bonfim,H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,598
+Bonfim,H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",603
+Bonfim,HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",609
+Bonfim,H,Estudante,Total,Na freguesia onde reside atualmente,662
+Bonfim,M,Estudante,Total,"No mesmo município, noutra freguesia",680
+Bonfim,M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,682
+Bonfim,M,Estudante,Total,Na freguesia onde reside atualmente,701
+Bonfim,H,Estudante,Total,"No mesmo município, noutra freguesia",702
+Bonfim,H,Empregada,Total,Na freguesia onde reside atualmente,756
+Bonfim,HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",768
+Bonfim,M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",778
+Bonfim,H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",796
+Bonfim,H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",847
+Bonfim,M,Empregada,Total,Na freguesia onde reside atualmente,924
+Bonfim,M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1112
+Bonfim,HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1126
+Bonfim,H,Total,Até 15 minutos,Na freguesia onde reside atualmente,1152
+Bonfim,HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1167
+Bonfim,H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1189
+Bonfim,M,Total,Até 15 minutos,Na freguesia onde reside atualmente,1254
+Bonfim,HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1280
+Bonfim,HM,Estudante,Total,Na freguesia onde reside atualmente,1363
+Bonfim,HM,Estudante,Total,"No mesmo município, noutra freguesia",1382
+Bonfim,H,Total,Total,Na freguesia onde reside atualmente,1418
+Bonfim,M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1487
+Bonfim,H,Empregada,Total,"No mesmo município, noutra freguesia",1593
+Bonfim,M,Total,Total,Na freguesia onde reside atualmente,1625
+Bonfim,HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1625
+Bonfim,HM,Empregada,Total,Na freguesia onde reside atualmente,1680
+Bonfim,HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1908
+Bonfim,M,Empregada,Total,"No mesmo município, noutra freguesia",1971
+Bonfim,H,Total,Total,"No mesmo município, noutra freguesia",2295
+Bonfim,HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,2406
+Bonfim,M,Total,Total,"No mesmo município, noutra freguesia",2651
+Bonfim,HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",2676
+Bonfim,HM,Total,Total,Na freguesia onde reside atualmente,3043
+Bonfim,HM,Empregada,Total,"No mesmo município, noutra freguesia",3564
+Bonfim,HM,Total,Total,"No mesmo município, noutra freguesia",4946
+Bonfim,HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+Bonfim,HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+Bonfim,H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,0
+Bonfim,H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+Bonfim,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,1
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,61 - 90 minutos,Na freguesia onde reside atualmente,1
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",2
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,5
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",5
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,61 - 90 minutos,Na freguesia onde reside atualmente,6
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,6
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,61 - 90 minutos,Na freguesia onde reside atualmente,6
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",7
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,61 - 90 minutos,Na freguesia onde reside atualmente,7
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,8
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,61 - 90 minutos,"No mesmo município, noutra freguesia",12
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",14
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,31 - 60 minutos,Na freguesia onde reside atualmente,14
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",19
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,21
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",25
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,31 - 60 minutos,Na freguesia onde reside atualmente,29
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,32
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",32
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,31 - 60 minutos,Na freguesia onde reside atualmente,38
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,61 - 90 minutos,"No mesmo município, noutra freguesia",39
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,61 - 90 minutos,"No mesmo município, noutra freguesia",51
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,31 - 60 minutos,Na freguesia onde reside atualmente,53
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,31 - 60 minutos,Na freguesia onde reside atualmente,67
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",81
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",100
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,128
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",155
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,163
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,171
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,31 - 60 minutos,"No mesmo município, noutra freguesia",181
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,230
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",255
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",288
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,16 - 30 minutos,Na freguesia onde reside atualmente,291
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,16 - 30 minutos,Na freguesia onde reside atualmente,334
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,16 - 30 minutos,Na freguesia onde reside atualmente,358
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",369
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,16 - 30 minutos,Na freguesia onde reside atualmente,401
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,31 - 60 minutos,"No mesmo município, noutra freguesia",443
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",531
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",556
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",577
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",594
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,31 - 60 minutos,"No mesmo município, noutra freguesia",624
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,676
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,16 - 30 minutos,Na freguesia onde reside atualmente,692
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,792
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,814
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Total,Na freguesia onde reside atualmente,830
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",886
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",898
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,903
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Total,Na freguesia onde reside atualmente,969
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Total,Na freguesia onde reside atualmente,986
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1008
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,16 - 30 minutos,"No mesmo município, noutra freguesia",1125
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Até 15 minutos,"No mesmo município, noutra freguesia",1133
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Total,Na freguesia onde reside atualmente,1166
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",1185
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Total,"No mesmo município, noutra freguesia",1196
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Total,"No mesmo município, noutra freguesia",1255
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1454
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1480
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Até 15 minutos,Na freguesia onde reside atualmente,1490
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Até 15 minutos,Na freguesia onde reside atualmente,1579
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Até 15 minutos,"No mesmo município, noutra freguesia",1585
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Até 15 minutos,Na freguesia onde reside atualmente,1606
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Até 15 minutos,Na freguesia onde reside atualmente,1695
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",1716
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Total,Na freguesia onde reside atualmente,1816
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Até 15 minutos,"No mesmo município, noutra freguesia",1906
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Total,"No mesmo município, noutra freguesia",1953
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Total,Na freguesia onde reside atualmente,1955
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Total,Na freguesia onde reside atualmente,1996
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,16 - 30 minutos,"No mesmo município, noutra freguesia",2071
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Total,Na freguesia onde reside atualmente,2135
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Total,"No mesmo município, noutra freguesia",2451
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Total,"No mesmo município, noutra freguesia",2508
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Até 15 minutos,"No mesmo município, noutra freguesia",3039
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Até 15 minutos,Na freguesia onde reside atualmente,3185
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,16 - 30 minutos,"No mesmo município, noutra freguesia",3196
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Total,"No mesmo município, noutra freguesia",3208
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Total,"No mesmo município, noutra freguesia",3704
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Total,Na freguesia onde reside atualmente,3951
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Total,"No mesmo município, noutra freguesia",4461
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Total,"No mesmo município, noutra freguesia",6912
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+União das freguesias de Lordelo do Ouro e Massarelos,H,Total,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,H,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,HM,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,M,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",0
+União das freguesias de Lordelo do Ouro e Massarelos,M,Empregada,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,M,Total,Mais de 90 minutos,Na freguesia onde reside atualmente,0
+União das freguesias de Lordelo do Ouro e Massarelos,H,Estudante,Mais de 90 minutos,Na freguesia onde reside atualmente,0
 Campanhã,H,Estudante,Mais de 90 minutos,"No mesmo município, noutra freguesia",1
 Campanhã,M,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1
 Campanhã,HM,Estudante,61 - 90 minutos,Na freguesia onde reside atualmente,1

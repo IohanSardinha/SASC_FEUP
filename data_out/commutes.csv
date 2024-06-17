@@ -1,50 +1,50 @@
 origin,destination,count,probability
-Ramalde,Ramalde,4982,0.33684922244759974
-Ramalde,União das freguesias de Lordelo do Ouro e Massarelos,1635,0.11052512959206671
-Ramalde,Bonfim,1635,0.11052512959206671
-Ramalde,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1635,0.11052512959206671
-Ramalde,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",1635,0.11052512959206671
-Ramalde,Paranhos,1635,0.11052512959206671
-Ramalde,Campanhã,1635,0.11052512959206671
-União das freguesias de Lordelo do Ouro e Massarelos,Ramalde,1152,0.1060480530240265
-União das freguesias de Lordelo do Ouro e Massarelos,União das freguesias de Lordelo do Ouro e Massarelos,3951,0.3637116818558409
-União das freguesias de Lordelo do Ouro e Massarelos,Bonfim,1152,0.1060480530240265
-União das freguesias de Lordelo do Ouro e Massarelos,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1152,0.1060480530240265
-União das freguesias de Lordelo do Ouro e Massarelos,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",1152,0.1060480530240265
-União das freguesias de Lordelo do Ouro e Massarelos,Paranhos,1152,0.1060480530240265
-União das freguesias de Lordelo do Ouro e Massarelos,Campanhã,1152,0.1060480530240265
-Bonfim,Ramalde,824,0.10318354403972128
-Bonfim,União das freguesias de Lordelo do Ouro e Massarelos,824,0.10318354403972128
-Bonfim,Bonfim,3043,0.3808987357616723
-Bonfim,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",824,0.10318354403972128
-Bonfim,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",824,0.10318354403972128
-Bonfim,Paranhos,824,0.10318354403972128
-Bonfim,Campanhã,824,0.10318354403972128
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Ramalde,1184,0.08977760929997473
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",União das freguesias de Lordelo do Ouro e Massarelos,1184,0.08977760929997473
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Bonfim,1184,0.08977760929997473
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória","União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",6085,0.4613343442001516
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória","União das freguesias de Aldoar, Foz do Douro e Nevogilde",1184,0.08977760929997473
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Paranhos,1184,0.08977760929997473
-"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Campanhã,1184,0.08977760929997473
-"União das freguesias de Aldoar, Foz do Douro e Nevogilde",Ramalde,1112,0.10172229843011735
-"União das freguesias de Aldoar, Foz do Douro e Nevogilde",União das freguesias de Lordelo do Ouro e Massarelos,1112,0.10172229843011735
-"União das freguesias de Aldoar, Foz do Douro e Nevogilde",Bonfim,1112,0.10172229843011735
-"União das freguesias de Aldoar, Foz do Douro e Nevogilde","União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1112,0.10172229843011735
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde","União das freguesias de Aldoar, Foz do Douro e Nevogilde",4261,0.38966620941929586
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde","União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1112,0.10172229843011735
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",Ramalde,1112,0.10172229843011735
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",Paranhos,1112,0.10172229843011735
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",Bonfim,1112,0.10172229843011735
+"União das freguesias de Aldoar, Foz do Douro e Nevogilde",União das freguesias de Lordelo do Ouro e Massarelos,1112,0.10172229843011735
 "União das freguesias de Aldoar, Foz do Douro e Nevogilde",Campanhã,1112,0.10172229843011735
-Paranhos,Ramalde,1560,0.09324329707979762
-Paranhos,União das freguesias de Lordelo do Ouro e Massarelos,1560,0.09324329707979762
-Paranhos,Bonfim,1560,0.09324329707979762
-Paranhos,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1560,0.09324329707979762
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória","União das freguesias de Aldoar, Foz do Douro e Nevogilde",1184,0.08977760929997473
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória","União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",6085,0.4613343442001516
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Ramalde,1184,0.08977760929997473
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Paranhos,1184,0.08977760929997473
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Bonfim,1184,0.08977760929997473
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",União das freguesias de Lordelo do Ouro e Massarelos,1184,0.08977760929997473
+"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",Campanhã,1184,0.08977760929997473
+Ramalde,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",1635,0.11052512959206671
+Ramalde,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1635,0.11052512959206671
+Ramalde,Ramalde,4982,0.33684922244759974
+Ramalde,Paranhos,1635,0.11052512959206671
+Ramalde,Bonfim,1635,0.11052512959206671
+Ramalde,União das freguesias de Lordelo do Ouro e Massarelos,1635,0.11052512959206671
+Ramalde,Campanhã,1635,0.11052512959206671
 Paranhos,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",1560,0.09324329707979762
+Paranhos,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1560,0.09324329707979762
+Paranhos,Ramalde,1560,0.09324329707979762
 Paranhos,Paranhos,7372,0.4405402175212143
+Paranhos,Bonfim,1560,0.09324329707979762
+Paranhos,União das freguesias de Lordelo do Ouro e Massarelos,1560,0.09324329707979762
 Paranhos,Campanhã,1560,0.09324329707979762
-Campanhã,Ramalde,974,0.10177731312075275
-Campanhã,União das freguesias de Lordelo do Ouro e Massarelos,974,0.10177731312075275
-Campanhã,Bonfim,974,0.10177731312075275
-Campanhã,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",974,0.10177731312075275
+Bonfim,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",824,0.10318354403972128
+Bonfim,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",824,0.10318354403972128
+Bonfim,Ramalde,824,0.10318354403972128
+Bonfim,Paranhos,824,0.10318354403972128
+Bonfim,Bonfim,3043,0.3808987357616723
+Bonfim,União das freguesias de Lordelo do Ouro e Massarelos,824,0.10318354403972128
+Bonfim,Campanhã,824,0.10318354403972128
+União das freguesias de Lordelo do Ouro e Massarelos,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",1152,0.1060480530240265
+União das freguesias de Lordelo do Ouro e Massarelos,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",1152,0.1060480530240265
+União das freguesias de Lordelo do Ouro e Massarelos,Ramalde,1152,0.1060480530240265
+União das freguesias de Lordelo do Ouro e Massarelos,Paranhos,1152,0.1060480530240265
+União das freguesias de Lordelo do Ouro e Massarelos,Bonfim,1152,0.1060480530240265
+União das freguesias de Lordelo do Ouro e Massarelos,União das freguesias de Lordelo do Ouro e Massarelos,3951,0.3637116818558409
+União das freguesias de Lordelo do Ouro e Massarelos,Campanhã,1152,0.1060480530240265
 Campanhã,"União das freguesias de Aldoar, Foz do Douro e Nevogilde",974,0.10177731312075275
+Campanhã,"União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",974,0.10177731312075275
+Campanhã,Ramalde,974,0.10177731312075275
 Campanhã,Paranhos,974,0.10177731312075275
+Campanhã,Bonfim,974,0.10177731312075275
+Campanhã,União das freguesias de Lordelo do Ouro e Massarelos,974,0.10177731312075275
 Campanhã,Campanhã,3724,0.38933612127548356

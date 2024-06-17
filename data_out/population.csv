@@ -5,7 +5,7 @@ section,gender,type,count
 131217050,M,autonomous_or_employer,23.0
 131217050,M,students_age_10_14,12.0
 131217050,M,students_age_15_19,13.0
-131217050,M,students_age_20_24,20.0
+131217050,M,students_age_20_24,21.0
 131217050,M,housestay,18.0
 131217050,M,reformed,165.0
 131217050,M,children_under_10,30.0
@@ -38,7 +38,7 @@ section,gender,type,count
 131217049,H,autonomous_or_employer,26.0
 131217049,H,students_age_10_14,9.0
 131217049,H,students_age_15_19,7.0
-131217049,H,students_age_20_24,12.0
+131217049,H,students_age_20_24,11.0
 131217049,H,housestay,3.0
 131217049,H,reformed,106.0
 131217049,H,children_under_10,23.0
@@ -60,7 +60,7 @@ section,gender,type,count
 131203025,H,autonomous_or_employer,39.0
 131203025,H,students_age_10_14,9.0
 131203025,H,students_age_15_19,9.0
-131203025,H,students_age_20_24,9.0
+131203025,H,students_age_20_24,8.0
 131203025,H,housestay,2.0
 131203025,H,reformed,122.0
 131203025,H,children_under_10,53.0
@@ -82,7 +82,7 @@ section,gender,type,count
 131203017,H,autonomous_or_employer,38.0
 131203017,H,students_age_10_14,6.0
 131203017,H,students_age_15_19,8.0
-131203017,H,students_age_20_24,9.0
+131203017,H,students_age_20_24,8.0
 131203017,H,housestay,0.0
 131203017,H,reformed,109.0
 131203017,H,children_under_10,38.0
@@ -203,7 +203,7 @@ section,gender,type,count
 131218017,M,autonomous_or_employer,51.0
 131218017,M,students_age_10_14,28.0
 131218017,M,students_age_15_19,22.0
-131218017,M,students_age_20_24,18.0
+131218017,M,students_age_20_24,19.0
 131218017,M,housestay,37.0
 131218017,M,reformed,189.0
 131218017,M,children_under_10,80.0
@@ -225,7 +225,7 @@ section,gender,type,count
 131211014,M,autonomous_or_employer,11.0
 131211014,M,students_age_10_14,4.0
 131211014,M,students_age_15_19,6.0
-131211014,M,students_age_20_24,4.0
+131211014,M,students_age_20_24,3.0
 131211014,M,housestay,13.0
 131211014,M,reformed,51.0
 131211014,M,children_under_10,58.0
@@ -280,7 +280,7 @@ section,gender,type,count
 131216023,H,autonomous_or_employer,17.0
 131216023,H,students_age_10_14,6.0
 131216023,H,students_age_15_19,14.0
-131216023,H,students_age_20_24,16.0
+131216023,H,students_age_20_24,17.0
 131216023,H,housestay,2.0
 131216023,H,reformed,109.0
 131216023,H,children_under_10,33.0
@@ -412,7 +412,7 @@ section,gender,type,count
 131210012,H,autonomous_or_employer,26.0
 131210012,H,students_age_10_14,7.0
 131210012,H,students_age_15_19,3.0
-131210012,H,students_age_20_24,6.0
+131210012,H,students_age_20_24,5.0
 131210012,H,housestay,0.0
 131210012,H,reformed,97.0
 131210012,H,children_under_10,27.0
@@ -423,7 +423,7 @@ section,gender,type,count
 131210037,M,autonomous_or_employer,7.0
 131210037,M,students_age_10_14,5.0
 131210037,M,students_age_15_19,7.0
-131210037,M,students_age_20_24,7.0
+131210037,M,students_age_20_24,6.0
 131210037,M,housestay,10.0
 131210037,M,reformed,107.0
 131210037,M,children_under_10,9.0
@@ -456,7 +456,7 @@ section,gender,type,count
 131210040,H,autonomous_or_employer,9.0
 131210040,H,students_age_10_14,4.0
 131210040,H,students_age_15_19,7.0
-131210040,H,students_age_20_24,18.0
+131210040,H,students_age_20_24,17.0
 131210040,H,housestay,0.0
 131210040,H,reformed,24.0
 131210040,H,children_under_10,31.0
@@ -588,7 +588,7 @@ section,gender,type,count
 131217002,H,autonomous_or_employer,13.0
 131217002,H,students_age_10_14,2.0
 131217002,H,students_age_15_19,3.0
-131217002,H,students_age_20_24,10.0
+131217002,H,students_age_20_24,11.0
 131217002,H,housestay,0.0
 131217002,H,reformed,37.0
 131217002,H,children_under_10,14.0
@@ -610,7 +610,7 @@ section,gender,type,count
 131211008,H,autonomous_or_employer,30.0
 131211008,H,students_age_10_14,16.0
 131211008,H,students_age_15_19,11.0
-131211008,H,students_age_20_24,12.0
+131211008,H,students_age_20_24,11.0
 131211008,H,housestay,0.0
 131211008,H,reformed,153.0
 131211008,H,children_under_10,54.0
@@ -665,7 +665,7 @@ section,gender,type,count
 131217046,M,autonomous_or_employer,28.0
 131217046,M,students_age_10_14,13.0
 131217046,M,students_age_15_19,15.0
-131217046,M,students_age_20_24,18.0
+131217046,M,students_age_20_24,17.0
 131217046,M,housestay,20.0
 131217046,M,reformed,220.0
 131217046,M,children_under_10,37.0
@@ -720,7 +720,7 @@ section,gender,type,count
 131203015,H,autonomous_or_employer,45.0
 131203015,H,students_age_10_14,8.0
 131203015,H,students_age_15_19,12.0
-131203015,H,students_age_20_24,15.0
+131203015,H,students_age_20_24,16.0
 131203015,H,housestay,2.0
 131203015,H,reformed,165.0
 131203015,H,children_under_10,35.0
@@ -731,7 +731,7 @@ section,gender,type,count
 131203012,M,autonomous_or_employer,13.0
 131203012,M,students_age_10_14,6.0
 131203012,M,students_age_15_19,4.0
-131203012,M,students_age_20_24,4.0
+131203012,M,students_age_20_24,5.0
 131203012,M,housestay,20.0
 131203012,M,reformed,115.0
 131203012,M,children_under_10,16.0
@@ -819,7 +819,7 @@ section,gender,type,count
 131218007,M,autonomous_or_employer,25.0
 131218007,M,students_age_10_14,14.0
 131218007,M,students_age_15_19,17.0
-131218007,M,students_age_20_24,18.0
+131218007,M,students_age_20_24,17.0
 131218007,M,housestay,14.0
 131218007,M,reformed,129.0
 131218007,M,children_under_10,39.0
@@ -874,7 +874,7 @@ section,gender,type,count
 131211021,H,autonomous_or_employer,20.0
 131211021,H,students_age_10_14,17.0
 131211021,H,students_age_15_19,37.0
-131211021,H,students_age_20_24,31.0
+131211021,H,students_age_20_24,32.0
 131211021,H,housestay,3.0
 131211021,H,reformed,107.0
 131211021,H,children_under_10,70.0
@@ -896,7 +896,7 @@ section,gender,type,count
 131217013,H,autonomous_or_employer,22.0
 131217013,H,students_age_10_14,3.0
 131217013,H,students_age_15_19,4.0
-131217013,H,students_age_20_24,10.0
+131217013,H,students_age_20_24,11.0
 131217013,H,housestay,2.0
 131217013,H,reformed,72.0
 131217013,H,children_under_10,19.0
@@ -940,7 +940,7 @@ section,gender,type,count
 131218018,H,autonomous_or_employer,12.0
 131218018,H,students_age_10_14,23.0
 131218018,H,students_age_15_19,27.0
-131218018,H,students_age_20_24,23.0
+131218018,H,students_age_20_24,22.0
 131218018,H,housestay,3.0
 131218018,H,reformed,109.0
 131218018,H,children_under_10,65.0
@@ -1083,7 +1083,7 @@ section,gender,type,count
 131217027,M,autonomous_or_employer,10.0
 131217027,M,students_age_10_14,1.0
 131217027,M,students_age_15_19,3.0
-131217027,M,students_age_20_24,7.0
+131217027,M,students_age_20_24,6.0
 131217027,M,housestay,6.0
 131217027,M,reformed,46.0
 131217027,M,children_under_10,5.0
@@ -1193,7 +1193,7 @@ section,gender,type,count
 131217023,M,autonomous_or_employer,22.0
 131217023,M,students_age_10_14,12.0
 131217023,M,students_age_15_19,10.0
-131217023,M,students_age_20_24,9.0
+131217023,M,students_age_20_24,10.0
 131217023,M,housestay,25.0
 131217023,M,reformed,236.0
 131217023,M,children_under_10,35.0
@@ -1303,7 +1303,7 @@ section,gender,type,count
 131211030,M,autonomous_or_employer,65.0
 131211030,M,students_age_10_14,15.0
 131211030,M,students_age_15_19,16.0
-131211030,M,students_age_20_24,13.0
+131211030,M,students_age_20_24,14.0
 131211030,M,housestay,32.0
 131211030,M,reformed,261.0
 131211030,M,children_under_10,64.0
@@ -1347,7 +1347,7 @@ section,gender,type,count
 131218003,M,autonomous_or_employer,29.0
 131218003,M,students_age_10_14,8.0
 131218003,M,students_age_15_19,6.0
-131218003,M,students_age_20_24,20.0
+131218003,M,students_age_20_24,21.0
 131218003,M,housestay,19.0
 131218003,M,reformed,130.0
 131218003,M,children_under_10,20.0
@@ -1567,7 +1567,7 @@ section,gender,type,count
 131211024,M,autonomous_or_employer,15.0
 131211024,M,students_age_10_14,21.0
 131211024,M,students_age_15_19,19.0
-131211024,M,students_age_20_24,19.0
+131211024,M,students_age_20_24,20.0
 131211024,M,housestay,24.0
 131211024,M,reformed,123.0
 131211024,M,children_under_10,55.0
@@ -1600,7 +1600,7 @@ section,gender,type,count
 131216003,H,autonomous_or_employer,21.0
 131216003,H,students_age_10_14,10.0
 131216003,H,students_age_15_19,17.0
-131216003,H,students_age_20_24,18.0
+131216003,H,students_age_20_24,17.0
 131216003,H,housestay,1.0
 131216003,H,reformed,149.0
 131216003,H,children_under_10,42.0
@@ -1633,7 +1633,7 @@ section,gender,type,count
 131211034,M,autonomous_or_employer,28.0
 131211034,M,students_age_10_14,8.0
 131211034,M,students_age_15_19,8.0
-131211034,M,students_age_20_24,12.0
+131211034,M,students_age_20_24,13.0
 131211034,M,housestay,17.0
 131211034,M,reformed,168.0
 131211034,M,children_under_10,40.0
@@ -1666,7 +1666,7 @@ section,gender,type,count
 131210048,H,autonomous_or_employer,26.0
 131210048,H,students_age_10_14,19.0
 131210048,H,students_age_15_19,16.0
-131210048,H,students_age_20_24,26.0
+131210048,H,students_age_20_24,27.0
 131210048,H,housestay,4.0
 131210048,H,reformed,121.0
 131210048,H,children_under_10,34.0
@@ -1765,7 +1765,7 @@ section,gender,type,count
 131216004,M,autonomous_or_employer,24.0
 131216004,M,students_age_10_14,8.0
 131216004,M,students_age_15_19,8.0
-131216004,M,students_age_20_24,9.0
+131216004,M,students_age_20_24,8.0
 131216004,M,housestay,18.0
 131216004,M,reformed,140.0
 131216004,M,children_under_10,41.0
@@ -1787,7 +1787,7 @@ section,gender,type,count
 131203009,M,autonomous_or_employer,20.0
 131203009,M,students_age_10_14,5.0
 131203009,M,students_age_15_19,5.0
-131203009,M,students_age_20_24,7.0
+131203009,M,students_age_20_24,6.0
 131203009,M,housestay,6.0
 131203009,M,reformed,34.0
 131203009,M,children_under_10,24.0
@@ -1820,7 +1820,7 @@ section,gender,type,count
 131202007,H,autonomous_or_employer,23.0
 131202007,H,students_age_10_14,10.0
 131202007,H,students_age_15_19,10.0
-131202007,H,students_age_20_24,15.0
+131202007,H,students_age_20_24,14.0
 131202007,H,housestay,1.0
 131202007,H,reformed,115.0
 131202007,H,children_under_10,26.0
@@ -1831,7 +1831,7 @@ section,gender,type,count
 131202021,M,autonomous_or_employer,42.0
 131202021,M,students_age_10_14,7.0
 131202021,M,students_age_15_19,3.0
-131202021,M,students_age_20_24,10.0
+131202021,M,students_age_20_24,11.0
 131202021,M,housestay,15.0
 131202021,M,reformed,158.0
 131202021,M,children_under_10,31.0
@@ -1853,7 +1853,7 @@ section,gender,type,count
 131202006,M,autonomous_or_employer,27.0
 131202006,M,students_age_10_14,4.0
 131202006,M,students_age_15_19,4.0
-131202006,M,students_age_20_24,10.0
+131202006,M,students_age_20_24,11.0
 131202006,M,housestay,14.0
 131202006,M,reformed,147.0
 131202006,M,children_under_10,23.0
@@ -1897,7 +1897,7 @@ section,gender,type,count
 131217004,M,autonomous_or_employer,22.0
 131217004,M,students_age_10_14,3.0
 131217004,M,students_age_15_19,5.0
-131217004,M,students_age_20_24,15.0
+131217004,M,students_age_20_24,14.0
 131217004,M,housestay,10.0
 131217004,M,reformed,119.0
 131217004,M,children_under_10,20.0
@@ -1919,7 +1919,7 @@ section,gender,type,count
 131211023,M,autonomous_or_employer,43.0
 131211023,M,students_age_10_14,11.0
 131211023,M,students_age_15_19,19.0
-131211023,M,students_age_20_24,23.0
+131211023,M,students_age_20_24,22.0
 131211023,M,housestay,23.0
 131211023,M,reformed,157.0
 131211023,M,children_under_10,32.0
@@ -1941,7 +1941,7 @@ section,gender,type,count
 131217026,M,autonomous_or_employer,27.0
 131217026,M,students_age_10_14,8.0
 131217026,M,students_age_15_19,8.0
-131217026,M,students_age_20_24,10.0
+131217026,M,students_age_20_24,9.0
 131217026,M,housestay,13.0
 131217026,M,reformed,124.0
 131217026,M,children_under_10,22.0
@@ -1985,7 +1985,7 @@ section,gender,type,count
 131203002,M,autonomous_or_employer,51.0
 131203002,M,students_age_10_14,13.0
 131203002,M,students_age_15_19,12.0
-131203002,M,students_age_20_24,13.0
+131203002,M,students_age_20_24,12.0
 131203002,M,housestay,94.0
 131203002,M,reformed,195.0
 131203002,M,children_under_10,84.0
@@ -1996,7 +1996,7 @@ section,gender,type,count
 131203002,H,autonomous_or_employer,50.0
 131203002,H,students_age_10_14,13.0
 131203002,H,students_age_15_19,12.0
-131203002,H,students_age_20_24,11.0
+131203002,H,students_age_20_24,12.0
 131203002,H,housestay,29.0
 131203002,H,reformed,163.0
 131203002,H,children_under_10,70.0
@@ -2007,7 +2007,7 @@ section,gender,type,count
 131203005,M,autonomous_or_employer,38.0
 131203005,M,students_age_10_14,9.0
 131203005,M,students_age_15_19,14.0
-131203005,M,students_age_20_24,13.0
+131203005,M,students_age_20_24,14.0
 131203005,M,housestay,21.0
 131203005,M,reformed,195.0
 131203005,M,children_under_10,38.0
@@ -2018,7 +2018,7 @@ section,gender,type,count
 131203005,H,autonomous_or_employer,35.0
 131203005,H,students_age_10_14,10.0
 131203005,H,students_age_15_19,10.0
-131203005,H,students_age_20_24,12.0
+131203005,H,students_age_20_24,13.0
 131203005,H,housestay,1.0
 131203005,H,reformed,126.0
 131203005,H,children_under_10,49.0
@@ -2029,7 +2029,7 @@ section,gender,type,count
 131203022,M,autonomous_or_employer,80.0
 131203022,M,students_age_10_14,8.0
 131203022,M,students_age_15_19,6.0
-131203022,M,students_age_20_24,10.0
+131203022,M,students_age_20_24,11.0
 131203022,M,housestay,21.0
 131203022,M,reformed,195.0
 131203022,M,children_under_10,42.0
@@ -2095,7 +2095,7 @@ section,gender,type,count
 131211012,M,autonomous_or_employer,10.0
 131211012,M,students_age_10_14,18.0
 131211012,M,students_age_15_19,23.0
-131211012,M,students_age_20_24,19.0
+131211012,M,students_age_20_24,20.0
 131211012,M,housestay,6.0
 131211012,M,reformed,61.0
 131211012,M,children_under_10,63.0
@@ -2128,7 +2128,7 @@ section,gender,type,count
 131218004,H,autonomous_or_employer,18.0
 131218004,H,students_age_10_14,8.0
 131218004,H,students_age_15_19,14.0
-131218004,H,students_age_20_24,17.0
+131218004,H,students_age_20_24,18.0
 131218004,H,housestay,3.0
 131218004,H,reformed,116.0
 131218004,H,children_under_10,41.0
@@ -2172,7 +2172,7 @@ section,gender,type,count
 131217032,H,autonomous_or_employer,28.0
 131217032,H,students_age_10_14,3.0
 131217032,H,students_age_15_19,2.0
-131217032,H,students_age_20_24,4.0
+131217032,H,students_age_20_24,3.0
 131217032,H,housestay,0.0
 131217032,H,reformed,88.0
 131217032,H,children_under_10,14.0
@@ -2205,7 +2205,7 @@ section,gender,type,count
 131210039,M,autonomous_or_employer,46.0
 131210039,M,students_age_10_14,10.0
 131210039,M,students_age_15_19,11.0
-131210039,M,students_age_20_24,16.0
+131210039,M,students_age_20_24,15.0
 131210039,M,housestay,16.0
 131210039,M,reformed,206.0
 131210039,M,children_under_10,27.0
@@ -2227,7 +2227,7 @@ section,gender,type,count
 131216020,M,autonomous_or_employer,15.0
 131216020,M,students_age_10_14,15.0
 131216020,M,students_age_15_19,17.0
-131216020,M,students_age_20_24,14.0
+131216020,M,students_age_20_24,15.0
 131216020,M,housestay,20.0
 131216020,M,reformed,117.0
 131216020,M,children_under_10,59.0
@@ -2249,7 +2249,7 @@ section,gender,type,count
 131211026,M,autonomous_or_employer,25.0
 131211026,M,students_age_10_14,7.0
 131211026,M,students_age_15_19,14.0
-131211026,M,students_age_20_24,17.0
+131211026,M,students_age_20_24,16.0
 131211026,M,housestay,24.0
 131211026,M,reformed,171.0
 131211026,M,children_under_10,35.0
@@ -2304,7 +2304,7 @@ section,gender,type,count
 131211003,H,autonomous_or_employer,15.0
 131211003,H,students_age_10_14,14.0
 131211003,H,students_age_15_19,18.0
-131211003,H,students_age_20_24,25.0
+131211003,H,students_age_20_24,24.0
 131211003,H,housestay,2.0
 131211003,H,reformed,80.0
 131211003,H,children_under_10,42.0
@@ -2326,7 +2326,7 @@ section,gender,type,count
 131210021,H,autonomous_or_employer,20.0
 131210021,H,students_age_10_14,8.0
 131210021,H,students_age_15_19,15.0
-131210021,H,students_age_20_24,19.0
+131210021,H,students_age_20_24,20.0
 131210021,H,housestay,0.0
 131210021,H,reformed,120.0
 131210021,H,children_under_10,31.0
@@ -2348,7 +2348,7 @@ section,gender,type,count
 131203011,H,autonomous_or_employer,42.0
 131203011,H,students_age_10_14,9.0
 131203011,H,students_age_15_19,9.0
-131203011,H,students_age_20_24,11.0
+131203011,H,students_age_20_24,12.0
 131203011,H,housestay,1.0
 131203011,H,reformed,128.0
 131203011,H,children_under_10,50.0
@@ -2414,7 +2414,7 @@ section,gender,type,count
 131210010,H,autonomous_or_employer,25.0
 131210010,H,students_age_10_14,9.0
 131210010,H,students_age_15_19,13.0
-131210010,H,students_age_20_24,15.0
+131210010,H,students_age_20_24,16.0
 131210010,H,housestay,1.0
 131210010,H,reformed,78.0
 131210010,H,children_under_10,49.0
@@ -2480,7 +2480,7 @@ section,gender,type,count
 131217029,H,autonomous_or_employer,15.0
 131217029,H,students_age_10_14,1.0
 131217029,H,students_age_15_19,1.0
-131217029,H,students_age_20_24,2.0
+131217029,H,students_age_20_24,1.0
 131217029,H,housestay,0.0
 131217029,H,reformed,47.0
 131217029,H,children_under_10,7.0
@@ -2502,7 +2502,7 @@ section,gender,type,count
 131211009,H,autonomous_or_employer,42.0
 131211009,H,students_age_10_14,8.0
 131211009,H,students_age_15_19,8.0
-131211009,H,students_age_20_24,9.0
+131211009,H,students_age_20_24,8.0
 131211009,H,housestay,0.0
 131211009,H,reformed,144.0
 131211009,H,children_under_10,23.0
@@ -2568,7 +2568,7 @@ section,gender,type,count
 131203028,H,autonomous_or_employer,24.0
 131203028,H,students_age_10_14,7.0
 131203028,H,students_age_15_19,8.0
-131203028,H,students_age_20_24,8.0
+131203028,H,students_age_20_24,7.0
 131203028,H,housestay,0.0
 131203028,H,reformed,93.0
 131203028,H,children_under_10,26.0
@@ -2590,7 +2590,7 @@ section,gender,type,count
 131217036,H,autonomous_or_employer,33.0
 131217036,H,students_age_10_14,3.0
 131217036,H,students_age_15_19,3.0
-131217036,H,students_age_20_24,6.0
+131217036,H,students_age_20_24,7.0
 131217036,H,housestay,0.0
 131217036,H,reformed,67.0
 131217036,H,children_under_10,32.0
@@ -2667,7 +2667,7 @@ section,gender,type,count
 131218010,M,autonomous_or_employer,15.0
 131218010,M,students_age_10_14,16.0
 131218010,M,students_age_15_19,12.0
-131218010,M,students_age_20_24,17.0
+131218010,M,students_age_20_24,18.0
 131218010,M,housestay,32.0
 131218010,M,reformed,140.0
 131218010,M,children_under_10,54.0
@@ -2766,7 +2766,7 @@ section,gender,type,count
 131217038,H,autonomous_or_employer,17.0
 131217038,H,students_age_10_14,9.0
 131217038,H,students_age_15_19,13.0
-131217038,H,students_age_20_24,12.0
+131217038,H,students_age_20_24,13.0
 131217038,H,housestay,2.0
 131217038,H,reformed,84.0
 131217038,H,children_under_10,47.0
@@ -2788,7 +2788,7 @@ section,gender,type,count
 131218009,H,autonomous_or_employer,11.0
 131218009,H,students_age_10_14,12.0
 131218009,H,students_age_15_19,21.0
-131218009,H,students_age_20_24,20.0
+131218009,H,students_age_20_24,19.0
 131218009,H,housestay,0.0
 131218009,H,reformed,77.0
 131218009,H,children_under_10,47.0
@@ -2832,7 +2832,7 @@ section,gender,type,count
 131203020,H,autonomous_or_employer,38.0
 131203020,H,students_age_10_14,13.0
 131203020,H,students_age_15_19,10.0
-131203020,H,students_age_20_24,9.0
+131203020,H,students_age_20_24,10.0
 131203020,H,housestay,3.0
 131203020,H,reformed,150.0
 131203020,H,children_under_10,40.0
@@ -2843,7 +2843,7 @@ section,gender,type,count
 131210029,M,autonomous_or_employer,27.0
 131210029,M,students_age_10_14,7.0
 131210029,M,students_age_15_19,4.0
-131210029,M,students_age_20_24,12.0
+131210029,M,students_age_20_24,13.0
 131210029,M,housestay,12.0
 131210029,M,reformed,116.0
 131210029,M,children_under_10,34.0
@@ -2865,7 +2865,7 @@ section,gender,type,count
 131218002,M,autonomous_or_employer,92.0
 131218002,M,students_age_10_14,14.0
 131218002,M,students_age_15_19,15.0
-131218002,M,students_age_20_24,16.0
+131218002,M,students_age_20_24,15.0
 131218002,M,housestay,27.0
 131218002,M,reformed,221.0
 131218002,M,children_under_10,80.0
@@ -2898,7 +2898,7 @@ section,gender,type,count
 131218005,H,autonomous_or_employer,20.0
 131218005,H,students_age_10_14,10.0
 131218005,H,students_age_15_19,13.0
-131218005,H,students_age_20_24,15.0
+131218005,H,students_age_20_24,14.0
 131218005,H,housestay,3.0
 131218005,H,reformed,150.0
 131218005,H,children_under_10,32.0
@@ -2931,7 +2931,7 @@ section,gender,type,count
 131211001,M,autonomous_or_employer,16.0
 131211001,M,students_age_10_14,14.0
 131211001,M,students_age_15_19,9.0
-131211001,M,students_age_20_24,17.0
+131211001,M,students_age_20_24,16.0
 131211001,M,housestay,25.0
 131211001,M,reformed,110.0
 131211001,M,children_under_10,47.0
@@ -2953,7 +2953,7 @@ section,gender,type,count
 131217015,M,autonomous_or_employer,9.0
 131217015,M,students_age_10_14,0.0
 131217015,M,students_age_15_19,0.0
-131217015,M,students_age_20_24,4.0
+131217015,M,students_age_20_24,5.0
 131217015,M,housestay,1.0
 131217015,M,reformed,52.0
 131217015,M,children_under_10,8.0
@@ -2964,7 +2964,7 @@ section,gender,type,count
 131217015,H,autonomous_or_employer,5.0
 131217015,H,students_age_10_14,0.0
 131217015,H,students_age_15_19,0.0
-131217015,H,students_age_20_24,2.0
+131217015,H,students_age_20_24,3.0
 131217015,H,housestay,0.0
 131217015,H,reformed,32.0
 131217015,H,children_under_10,5.0
@@ -3019,7 +3019,7 @@ section,gender,type,count
 131210022,M,autonomous_or_employer,37.0
 131210022,M,students_age_10_14,14.0
 131210022,M,students_age_15_19,29.0
-131210022,M,students_age_20_24,21.0
+131210022,M,students_age_20_24,20.0
 131210022,M,housestay,25.0
 131210022,M,reformed,184.0
 131210022,M,children_under_10,41.0
@@ -3030,7 +3030,7 @@ section,gender,type,count
 131210022,H,autonomous_or_employer,46.0
 131210022,H,students_age_10_14,14.0
 131210022,H,students_age_15_19,19.0
-131210022,H,students_age_20_24,20.0
+131210022,H,students_age_20_24,21.0
 131210022,H,housestay,5.0
 131210022,H,reformed,95.0
 131210022,H,children_under_10,46.0
@@ -3041,7 +3041,7 @@ section,gender,type,count
 131211017,M,autonomous_or_employer,27.0
 131211017,M,students_age_10_14,16.0
 131211017,M,students_age_15_19,12.0
-131211017,M,students_age_20_24,8.0
+131211017,M,students_age_20_24,9.0
 131211017,M,housestay,12.0
 131211017,M,reformed,65.0
 131211017,M,children_under_10,51.0
@@ -3052,7 +3052,7 @@ section,gender,type,count
 131211017,H,autonomous_or_employer,23.0
 131211017,H,students_age_10_14,18.0
 131211017,H,students_age_15_19,18.0
-131211017,H,students_age_20_24,13.0
+131211017,H,students_age_20_24,14.0
 131211017,H,housestay,0.0
 131211017,H,reformed,42.0
 131211017,H,children_under_10,57.0
@@ -3140,7 +3140,7 @@ section,gender,type,count
 131217011,H,autonomous_or_employer,11.0
 131217011,H,students_age_10_14,2.0
 131217011,H,students_age_15_19,4.0
-131217011,H,students_age_20_24,9.0
+131217011,H,students_age_20_24,10.0
 131217011,H,housestay,2.0
 131217011,H,reformed,35.0
 131217011,H,children_under_10,17.0
@@ -3162,7 +3162,7 @@ section,gender,type,count
 131217030,H,autonomous_or_employer,12.0
 131217030,H,students_age_10_14,0.0
 131217030,H,students_age_15_19,2.0
-131217030,H,students_age_20_24,3.0
+131217030,H,students_age_20_24,4.0
 131217030,H,housestay,1.0
 131217030,H,reformed,29.0
 131217030,H,children_under_10,7.0
@@ -3261,7 +3261,7 @@ section,gender,type,count
 131210020,M,autonomous_or_employer,24.0
 131210020,M,students_age_10_14,5.0
 131210020,M,students_age_15_19,9.0
-131210020,M,students_age_20_24,11.0
+131210020,M,students_age_20_24,10.0
 131210020,M,housestay,15.0
 131210020,M,reformed,105.0
 131210020,M,children_under_10,17.0
@@ -3272,7 +3272,7 @@ section,gender,type,count
 131210020,H,autonomous_or_employer,12.0
 131210020,H,students_age_10_14,8.0
 131210020,H,students_age_15_19,4.0
-131210020,H,students_age_20_24,9.0
+131210020,H,students_age_20_24,8.0
 131210020,H,housestay,3.0
 131210020,H,reformed,76.0
 131210020,H,children_under_10,20.0
@@ -3294,7 +3294,7 @@ section,gender,type,count
 131210050,H,autonomous_or_employer,23.0
 131210050,H,students_age_10_14,4.0
 131210050,H,students_age_15_19,8.0
-131210050,H,students_age_20_24,10.0
+131210050,H,students_age_20_24,9.0
 131210050,H,housestay,1.0
 131210050,H,reformed,87.0
 131210050,H,children_under_10,45.0
@@ -3327,7 +3327,7 @@ section,gender,type,count
 131203006,M,autonomous_or_employer,33.0
 131203006,M,students_age_10_14,5.0
 131203006,M,students_age_15_19,9.0
-131203006,M,students_age_20_24,9.0
+131203006,M,students_age_20_24,10.0
 131203006,M,housestay,14.0
 131203006,M,reformed,129.0
 131203006,M,children_under_10,26.0
@@ -3360,7 +3360,7 @@ section,gender,type,count
 131203019,H,autonomous_or_employer,36.0
 131203019,H,students_age_10_14,5.0
 131203019,H,students_age_15_19,9.0
-131203019,H,students_age_20_24,9.0
+131203019,H,students_age_20_24,8.0
 131203019,H,housestay,2.0
 131203019,H,reformed,147.0
 131203019,H,children_under_10,26.0
@@ -3382,7 +3382,7 @@ section,gender,type,count
 131211028,H,autonomous_or_employer,42.0
 131211028,H,students_age_10_14,6.0
 131211028,H,students_age_15_19,3.0
-131211028,H,students_age_20_24,7.0
+131211028,H,students_age_20_24,8.0
 131211028,H,housestay,1.0
 131211028,H,reformed,127.0
 131211028,H,children_under_10,45.0
@@ -3404,7 +3404,7 @@ section,gender,type,count
 131211031,H,autonomous_or_employer,22.0
 131211031,H,students_age_10_14,20.0
 131211031,H,students_age_15_19,15.0
-131211031,H,students_age_20_24,18.0
+131211031,H,students_age_20_24,17.0
 131211031,H,housestay,1.0
 131211031,H,reformed,94.0
 131211031,H,children_under_10,56.0
@@ -3426,7 +3426,7 @@ section,gender,type,count
 131217025,H,autonomous_or_employer,23.0
 131217025,H,students_age_10_14,6.0
 131217025,H,students_age_15_19,7.0
-131217025,H,students_age_20_24,7.0
+131217025,H,students_age_20_24,6.0
 131217025,H,housestay,2.0
 131217025,H,reformed,123.0
 131217025,H,children_under_10,29.0
@@ -3459,7 +3459,7 @@ section,gender,type,count
 131210027,M,autonomous_or_employer,16.0
 131210027,M,students_age_10_14,9.0
 131210027,M,students_age_15_19,6.0
-131210027,M,students_age_20_24,11.0
+131210027,M,students_age_20_24,10.0
 131210027,M,housestay,5.0
 131210027,M,reformed,45.0
 131210027,M,children_under_10,74.0
@@ -3470,7 +3470,7 @@ section,gender,type,count
 131210027,H,autonomous_or_employer,12.0
 131210027,H,students_age_10_14,14.0
 131210027,H,students_age_15_19,8.0
-131210027,H,students_age_20_24,10.0
+131210027,H,students_age_20_24,11.0
 131210027,H,housestay,3.0
 131210027,H,reformed,23.0
 131210027,H,children_under_10,69.0
@@ -3525,7 +3525,7 @@ section,gender,type,count
 131217005,M,autonomous_or_employer,15.0
 131217005,M,students_age_10_14,8.0
 131217005,M,students_age_15_19,9.0
-131217005,M,students_age_20_24,8.0
+131217005,M,students_age_20_24,7.0
 131217005,M,housestay,13.0
 131217005,M,reformed,92.0
 131217005,M,children_under_10,23.0
@@ -3613,7 +3613,7 @@ section,gender,type,count
 131202009,M,autonomous_or_employer,28.0
 131202009,M,students_age_10_14,4.0
 131202009,M,students_age_15_19,4.0
-131202009,M,students_age_20_24,8.0
+131202009,M,students_age_20_24,9.0
 131202009,M,housestay,16.0
 131202009,M,reformed,136.0
 131202009,M,children_under_10,17.0
@@ -3635,7 +3635,7 @@ section,gender,type,count
 131210030,M,autonomous_or_employer,26.0
 131210030,M,students_age_10_14,10.0
 131210030,M,students_age_15_19,15.0
-131210030,M,students_age_20_24,32.0
+131210030,M,students_age_20_24,31.0
 131210030,M,housestay,12.0
 131210030,M,reformed,119.0
 131210030,M,children_under_10,31.0
@@ -3723,7 +3723,7 @@ section,gender,type,count
 131217016,M,autonomous_or_employer,14.0
 131217016,M,students_age_10_14,3.0
 131217016,M,students_age_15_19,9.0
-131217016,M,students_age_20_24,10.0
+131217016,M,students_age_20_24,9.0
 131217016,M,housestay,10.0
 131217016,M,reformed,71.0
 131217016,M,children_under_10,19.0
@@ -3833,7 +3833,7 @@ section,gender,type,count
 131217007,M,autonomous_or_employer,12.0
 131217007,M,students_age_10_14,6.0
 131217007,M,students_age_15_19,7.0
-131217007,M,students_age_20_24,17.0
+131217007,M,students_age_20_24,18.0
 131217007,M,housestay,14.0
 131217007,M,reformed,156.0
 131217007,M,children_under_10,37.0
@@ -3844,7 +3844,7 @@ section,gender,type,count
 131217007,H,autonomous_or_employer,16.0
 131217007,H,students_age_10_14,9.0
 131217007,H,students_age_15_19,9.0
-131217007,H,students_age_20_24,16.0
+131217007,H,students_age_20_24,15.0
 131217007,H,housestay,1.0
 131217007,H,reformed,91.0
 131217007,H,children_under_10,34.0
@@ -3899,7 +3899,7 @@ section,gender,type,count
 131218025,M,autonomous_or_employer,24.0
 131218025,M,students_age_10_14,10.0
 131218025,M,students_age_15_19,12.0
-131218025,M,students_age_20_24,16.0
+131218025,M,students_age_20_24,17.0
 131218025,M,housestay,32.0
 131218025,M,reformed,127.0
 131218025,M,children_under_10,30.0
@@ -4009,7 +4009,7 @@ section,gender,type,count
 131210009,M,autonomous_or_employer,29.0
 131210009,M,students_age_10_14,9.0
 131210009,M,students_age_15_19,9.0
-131210009,M,students_age_20_24,16.0
+131210009,M,students_age_20_24,17.0
 131210009,M,housestay,24.0
 131210009,M,reformed,127.0
 131210009,M,children_under_10,24.0
@@ -4042,7 +4042,7 @@ section,gender,type,count
 131210045,H,autonomous_or_employer,16.0
 131210045,H,students_age_10_14,11.0
 131210045,H,students_age_15_19,12.0
-131210045,H,students_age_20_24,18.0
+131210045,H,students_age_20_24,19.0
 131210045,H,housestay,3.0
 131210045,H,reformed,32.0
 131210045,H,children_under_10,40.0
@@ -4064,7 +4064,7 @@ section,gender,type,count
 131210044,H,autonomous_or_employer,14.0
 131210044,H,students_age_10_14,9.0
 131210044,H,students_age_15_19,9.0
-131210044,H,students_age_20_24,16.0
+131210044,H,students_age_20_24,15.0
 131210044,H,housestay,2.0
 131210044,H,reformed,106.0
 131210044,H,children_under_10,28.0
@@ -4075,7 +4075,7 @@ section,gender,type,count
 131203004,M,autonomous_or_employer,25.0
 131203004,M,students_age_10_14,1.0
 131203004,M,students_age_15_19,1.0
-131203004,M,students_age_20_24,3.0
+131203004,M,students_age_20_24,2.0
 131203004,M,housestay,4.0
 131203004,M,reformed,93.0
 131203004,M,children_under_10,21.0
@@ -4108,7 +4108,7 @@ section,gender,type,count
 131216005,H,autonomous_or_employer,33.0
 131216005,H,students_age_10_14,10.0
 131216005,H,students_age_15_19,15.0
-131216005,H,students_age_20_24,13.0
+131216005,H,students_age_20_24,12.0
 131216005,H,housestay,4.0
 131216005,H,reformed,141.0
 131216005,H,children_under_10,46.0
@@ -4284,7 +4284,7 @@ section,gender,type,count
 131210016,H,autonomous_or_employer,21.0
 131210016,H,students_age_10_14,7.0
 131210016,H,students_age_15_19,8.0
-131210016,H,students_age_20_24,11.0
+131210016,H,students_age_20_24,12.0
 131210016,H,housestay,3.0
 131210016,H,reformed,87.0
 131210016,H,children_under_10,27.0
@@ -4317,7 +4317,7 @@ section,gender,type,count
 131210046,M,autonomous_or_employer,31.0
 131210046,M,students_age_10_14,9.0
 131210046,M,students_age_15_19,9.0
-131210046,M,students_age_20_24,17.0
+131210046,M,students_age_20_24,16.0
 131210046,M,housestay,18.0
 131210046,M,reformed,153.0
 131210046,M,children_under_10,22.0
@@ -4383,7 +4383,7 @@ section,gender,type,count
 131217052,M,autonomous_or_employer,27.0
 131217052,M,students_age_10_14,2.0
 131217052,M,students_age_15_19,4.0
-131217052,M,students_age_20_24,5.0
+131217052,M,students_age_20_24,4.0
 131217052,M,housestay,10.0
 131217052,M,reformed,137.0
 131217052,M,children_under_10,11.0
@@ -4416,7 +4416,7 @@ section,gender,type,count
 131202010,H,autonomous_or_employer,18.0
 131202010,H,students_age_10_14,9.0
 131202010,H,students_age_15_19,10.0
-131202010,H,students_age_20_24,10.0
+131202010,H,students_age_20_24,9.0
 131202010,H,housestay,2.0
 131202010,H,reformed,88.0
 131202010,H,children_under_10,26.0
@@ -4449,7 +4449,7 @@ section,gender,type,count
 131202013,M,autonomous_or_employer,39.0
 131202013,M,students_age_10_14,5.0
 131202013,M,students_age_15_19,7.0
-131202013,M,students_age_20_24,9.0
+131202013,M,students_age_20_24,8.0
 131202013,M,housestay,19.0
 131202013,M,reformed,198.0
 131202013,M,children_under_10,17.0
@@ -4636,7 +4636,7 @@ section,gender,type,count
 131203014,H,autonomous_or_employer,28.0
 131203014,H,students_age_10_14,7.0
 131203014,H,students_age_15_19,8.0
-131203014,H,students_age_20_24,10.0
+131203014,H,students_age_20_24,11.0
 131203014,H,housestay,0.0
 131203014,H,reformed,104.0
 131203014,H,children_under_10,22.0
@@ -4658,7 +4658,7 @@ section,gender,type,count
 131216010,H,autonomous_or_employer,15.0
 131216010,H,students_age_10_14,27.0
 131216010,H,students_age_15_19,26.0
-131216010,H,students_age_20_24,22.0
+131216010,H,students_age_20_24,21.0
 131216010,H,housestay,0.0
 131216010,H,reformed,84.0
 131216010,H,children_under_10,65.0
@@ -4669,7 +4669,7 @@ section,gender,type,count
 131211002,M,autonomous_or_employer,10.0
 131211002,M,students_age_10_14,16.0
 131211002,M,students_age_15_19,17.0
-131211002,M,students_age_20_24,13.0
+131211002,M,students_age_20_24,12.0
 131211002,M,housestay,21.0
 131211002,M,reformed,130.0
 131211002,M,children_under_10,59.0
@@ -4680,7 +4680,7 @@ section,gender,type,count
 131211002,H,autonomous_or_employer,23.0
 131211002,H,students_age_10_14,18.0
 131211002,H,students_age_15_19,20.0
-131211002,H,students_age_20_24,10.0
+131211002,H,students_age_20_24,11.0
 131211002,H,housestay,0.0
 131211002,H,reformed,81.0
 131211002,H,children_under_10,57.0
@@ -4702,7 +4702,7 @@ section,gender,type,count
 131217040,H,autonomous_or_employer,23.0
 131217040,H,students_age_10_14,6.0
 131217040,H,students_age_15_19,14.0
-131217040,H,students_age_20_24,15.0
+131217040,H,students_age_20_24,16.0
 131217040,H,housestay,2.0
 131217040,H,reformed,97.0
 131217040,H,children_under_10,29.0
@@ -4746,7 +4746,7 @@ section,gender,type,count
 131218015,H,autonomous_or_employer,19.0
 131218015,H,students_age_10_14,14.0
 131218015,H,students_age_15_19,13.0
-131218015,H,students_age_20_24,15.0
+131218015,H,students_age_20_24,16.0
 131218015,H,housestay,2.0
 131218015,H,reformed,88.0
 131218015,H,children_under_10,63.0
@@ -4768,7 +4768,7 @@ section,gender,type,count
 131211016,H,autonomous_or_employer,21.0
 131211016,H,students_age_10_14,13.0
 131211016,H,students_age_15_19,24.0
-131211016,H,students_age_20_24,29.0
+131211016,H,students_age_20_24,28.0
 131211016,H,housestay,3.0
 131211016,H,reformed,114.0
 131211016,H,children_under_10,39.0
@@ -4823,7 +4823,7 @@ section,gender,type,count
 131218020,M,autonomous_or_employer,89.0
 131218020,M,students_age_10_14,11.0
 131218020,M,students_age_15_19,8.0
-131218020,M,students_age_20_24,14.0
+131218020,M,students_age_20_24,15.0
 131218020,M,housestay,36.0
 131218020,M,reformed,190.0
 131218020,M,children_under_10,79.0
@@ -4845,7 +4845,7 @@ section,gender,type,count
 131218008,M,autonomous_or_employer,9.0
 131218008,M,students_age_10_14,12.0
 131218008,M,students_age_15_19,15.0
-131218008,M,students_age_20_24,9.0
+131218008,M,students_age_20_24,8.0
 131218008,M,housestay,14.0
 131218008,M,reformed,111.0
 131218008,M,children_under_10,35.0
@@ -4856,7 +4856,7 @@ section,gender,type,count
 131218008,H,autonomous_or_employer,13.0
 131218008,H,students_age_10_14,10.0
 131218008,H,students_age_15_19,9.0
-131218008,H,students_age_20_24,11.0
+131218008,H,students_age_20_24,12.0
 131218008,H,housestay,1.0
 131218008,H,reformed,60.0
 131218008,H,children_under_10,34.0
@@ -5032,7 +5032,7 @@ section,gender,type,count
 131216002,H,autonomous_or_employer,60.0
 131216002,H,students_age_10_14,14.0
 131216002,H,students_age_15_19,13.0
-131216002,H,students_age_20_24,15.0
+131216002,H,students_age_20_24,14.0
 131216002,H,housestay,2.0
 131216002,H,reformed,138.0
 131216002,H,children_under_10,65.0
@@ -5043,7 +5043,7 @@ section,gender,type,count
 131216001,M,autonomous_or_employer,18.0
 131216001,M,students_age_10_14,13.0
 131216001,M,students_age_15_19,12.0
-131216001,M,students_age_20_24,13.0
+131216001,M,students_age_20_24,12.0
 131216001,M,housestay,36.0
 131216001,M,reformed,177.0
 131216001,M,children_under_10,30.0
@@ -5065,7 +5065,7 @@ section,gender,type,count
 131216007,M,autonomous_or_employer,6.0
 131216007,M,students_age_10_14,11.0
 131216007,M,students_age_15_19,13.0
-131216007,M,students_age_20_24,10.0
+131216007,M,students_age_20_24,11.0
 131216007,M,housestay,30.0
 131216007,M,reformed,134.0
 131216007,M,children_under_10,37.0
@@ -5241,7 +5241,7 @@ section,gender,type,count
 131202001,M,autonomous_or_employer,20.0
 131202001,M,students_age_10_14,6.0
 131202001,M,students_age_15_19,7.0
-131202001,M,students_age_20_24,4.0
+131202001,M,students_age_20_24,3.0
 131202001,M,housestay,21.0
 131202001,M,reformed,124.0
 131202001,M,children_under_10,18.0
@@ -5252,7 +5252,7 @@ section,gender,type,count
 131202001,H,autonomous_or_employer,21.0
 131202001,H,students_age_10_14,4.0
 131202001,H,students_age_15_19,4.0
-131202001,H,students_age_20_24,4.0
+131202001,H,students_age_20_24,5.0
 131202001,H,housestay,2.0
 131202001,H,reformed,89.0
 131202001,H,children_under_10,18.0
@@ -5285,7 +5285,7 @@ section,gender,type,count
 131211033,M,autonomous_or_employer,51.0
 131211033,M,students_age_10_14,11.0
 131211033,M,students_age_15_19,10.0
-131211033,M,students_age_20_24,14.0
+131211033,M,students_age_20_24,15.0
 131211033,M,housestay,31.0
 131211033,M,reformed,218.0
 131211033,M,children_under_10,50.0
@@ -5318,7 +5318,7 @@ section,gender,type,count
 131202014,H,autonomous_or_employer,17.0
 131202014,H,students_age_10_14,3.0
 131202014,H,students_age_15_19,3.0
-131202014,H,students_age_20_24,8.0
+131202014,H,students_age_20_24,9.0
 131202014,H,housestay,2.0
 131202014,H,reformed,67.0
 131202014,H,children_under_10,27.0
