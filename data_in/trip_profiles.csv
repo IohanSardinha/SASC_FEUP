@@ -1,0 +1,47 @@
+category,profile,probability
+worker_1st_sector,H - W - H,0.65
+worker_1st_sector,H - W - S - H,0.15
+worker_1st_sector,H - W - L - H,0.15
+worker_1st_sector,H - W - S - L - H,0.05
+worker_2nd_sector,H - W - H,0.65
+worker_2nd_sector,H - W - S - H,0.15
+worker_2nd_sector,H - W - L - H,0.15
+worker_2nd_sector,H - W - S - L - H,0.05
+worker_3rd_sector,H - W - H,0.65
+worker_3rd_sector,H - W - S - H,0.15
+worker_3rd_sector,H - W - L - H,0.15
+worker_3rd_sector,H - W - S - L - H,0.05
+autonomous_or_employer,H - W - H,0.65
+autonomous_or_employer,H - W - S - H,0.15
+autonomous_or_employer,H - W - L - H,0.15
+autonomous_or_employer,H - W - S - L - H,0.05
+students_age_10_14,H - C - H,0.8
+students_age_10_14,H - C - L - H,0.1
+students_age_10_14,H - C - P - H,0.1
+students_age_15_19,H - C - H,0.7
+students_age_15_19,H - C - L - H,0.1
+students_age_15_19,H - C - P - H,0.1
+students_age_15_19,H - C - M - H,0.1
+students_age_20_24,H - C - H,0.6
+students_age_20_24,H - C - L - H,0.15
+students_age_20_24,H - C - P - H,0.1
+students_age_20_24,H - C - M - H,0.15
+housestay,H - S - H,0.3
+housestay,H - M - H,0.3
+housestay,H - S - P - H,0.1
+housestay,H - L - M - H,0.15
+housestay,H - S - M - H,0.15
+reformed,H - S - H,0.2
+reformed,H - M - H,0.1
+reformed,H - P - H,0.25
+reformed,H - L - S - H,0.15
+reformed,H - S - M - H,0.1
+reformed,H - S - P - H,0.2
+children_under_10,H - C - H,0.85
+children_under_10,H - C - L - H,0.075
+children_under_10,H - C - P - H,0.075
+undemployed,H - S - H,0.5
+undemployed,H - M - H,0.2
+undemployed,H - S - P - H,0.1
+undemployed,H - L - M - H,0.1
+undemployed,H - S - M - H,0.1
